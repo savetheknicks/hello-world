@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter Full Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="What is your name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile#"><b>Enter mobile</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Erin is a punk!!!</h1>
+   <h1> Erin is a punk and Gizmo is the best doggy!!!</h1>
 
   
 </form>
