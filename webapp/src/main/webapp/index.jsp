@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter Full Name</b></label>
-    <input type="text" placeholder="What is your name" name="Name" id="Name" required>
+    <input type="text" placeholder="Como te llamas?" name="Name" id="Name" required>
     <br>
     
     <label for="mobile#"><b>Enter mobile</b></label>
@@ -17,7 +17,7 @@
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter a secret :)" name="psw" id="psw" required>
+    <input type="password" placeholder="I am going to steal your password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
